@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhishek Sharma...
+- 👨‍💻 Currently I am working as a Data Scientist at Lumiq.ai
 - 👀 I’m interested in Data Science and related domains like Machine Learning, Computer Vision, Deep Learning, etc.
-- 🌱 I’m currently learning every domain of Data Science.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently trying to explore every domain of Data Science.
 - 📫 How to reach me - Contact me on my mail ID - asharma70420@gmail.com
 - 🌐 Blog - <a href='https://machinelearningprojects.net/'>machinelearningprojects.net</a>
 - 🌐 Toolsite - <a href='https://toolsincloud.com/'>toolsincloud.com</a>
