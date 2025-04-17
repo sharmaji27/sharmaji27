@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Sharma...
-- 👨‍💻 Currently I am working as a Data Scientist at Lumiq.ai
+- 👨‍💻 Currently, I am working as a Senior Software Engineer at JioSaavn
 - 👀 I’m interested in Data Science and related domains like Machine Learning, Computer Vision, Deep Learning, etc.
 - 🌱 I’m currently trying to explore every domain of Data Science.
 - 📫 How to reach me - Contact me on my mail ID - asharma70420@gmail.com
