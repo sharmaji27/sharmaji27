@@ -5,6 +5,7 @@
 - 📫 How to reach me - Contact me on my mail ID - asharma70420@gmail.com
 - 🌐 Blog - <a href='https://machinelearningprojects.net/'>machinelearningprojects.net</a>
 - 🌐 Tools Blog - <a href='https://tools.machinelearningprojects.net/'>tools.machinelearningprojects.net</a>
+- 🌐 YouTube - <a href='https://www.youtube.com/@machinelearningprojects'>Machine Learning Projects</a>
 
 
 <!---
